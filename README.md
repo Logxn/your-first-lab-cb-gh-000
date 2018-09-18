@@ -23,7 +23,7 @@ After you click on this, your Learn IDE will launch.
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
 3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. 
-
+a
 ![lab-fail](https://s3.amazonaws.com/learn-verified/IDE.png)
 
 5. You'll see something similar to:
